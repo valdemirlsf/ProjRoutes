@@ -34,7 +34,7 @@ export default function ContatosScreen({route,navigation}) {
                     style={styles.tinyLogo}
                     source={{
                         uri: 'https://reactnative.dev/img/tiny_logo.png',
-                    }}
+                    }} 
                 />
                 <View style={styles.info}>
                     <Text style={styles.infoText}>Fulano Da Silva</Text>
